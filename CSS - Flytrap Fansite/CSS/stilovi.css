@@ -1,0 +1,37 @@
+h1{
+    color:orangered;
+    font-size: 100px;
+    text-shadow: 2px 2px 0 black, -2px -2px 0 black, 2px -2px 0 black, -2px 2px 0 black;
+}
+
+body {
+    background-color:lightsalmon;
+    background-image: url(Muha.png);
+    background-size: cover;
+    background-position-y: 20%;  
+  }
+
+  p {
+    font: small-caps 14px Verdana;
+    font-weight: 600;
+    color:black;
+    text-shadow: 0 0 4px yellow;
+  }
+   
+
+img {
+    width: 15%;
+    height: 15%;
+}
+img:hover {
+    border-radius: 100%;
+    background-color: gold;
+}
+
+.crtana {
+    background-color: darkred;
+}
+
+.prava {
+    background-color:mediumaquamarine;
+}
